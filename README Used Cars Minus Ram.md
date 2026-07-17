@@ -4,7 +4,7 @@ A data analysis and pricing tool built for a used car dealership, using a datase
 
 **NOTE:** This data set deleted all vehicles with the manufacturer Ram as there were significant issues with predictions from this manufacturer.
 
-**📓 Full analysis notebook:** [used_car_prices_minus_RAM.ipynb](./used_car_prices_minus_RAM.ipynb)
+**📓 Full analysis notebook:** [used_car_prices_minus_RAM.ipynb](used_car_prices_minus_RAMt.ipynb)
 
 ---
 
