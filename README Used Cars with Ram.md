@@ -4,7 +4,11 @@ A data analysis and pricing tool built for a used car dealership, using a datase
 
 ** 📓 Full analysis notebook: [View Notebook](used_car_price_predictor_with_RAMt.ipynb) **
 ---
+## Dataset
+The dataset used in this project is too large to be hosted directly on GitHub. 
+You can view and copy file here: **[Download Dataset ([CSV](https://docs.google.com/spreadsheets/d/19G77Ps1CFjeDw8rWDiyB1p6xOQss209R6xyzqaOG8Oo/copy))]**
 
+Place the downloaded file into the `data/` directory before running the notebooks. 
 ## Business Problem
 
 A used car dealership needs to price incoming vehicles competitively and fairly. This project identifies which vehicle attributes (age, mileage, condition, drivetrain, manufacturer, and more) most strongly predict sale price, and builds a model the dealership can use to estimate a fair market price for a car before it goes on the lot.
