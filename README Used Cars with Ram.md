@@ -2,7 +2,6 @@
 
 A data analysis and pricing tool built for a used car dealership, using a dataset of 426,880 used vehicle listings to identify what factors most influence sale price and to provide a fair-market price estimate for incoming inventory.
 
-**📓 Full analysis notebook:** 
 ** 📓 Full analysis notebook: [View Notebook](used_car_price_predictor_with_RAMt.ipynb) **
 ---
 
